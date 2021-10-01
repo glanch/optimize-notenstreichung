@@ -1,6 +1,5 @@
 from __future__ import print_function
 from optlang import Model, Variable, Constraint, Objective
-from sympy import Sum
 
 curriculum = [
     {
